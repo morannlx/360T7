@@ -11,3 +11,5 @@
 #
 git clone https://github.com/SunBK201/UA3F.git package/UA3F
 git clone https://github.com/morannlx/curl-openwrt.git package/curl
+git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
+git clone https://github.com/izilzty/luci-app-chinadns-ng.git package/luci-app-chinadns-ng
